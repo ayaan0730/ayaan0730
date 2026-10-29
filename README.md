@@ -3,13 +3,15 @@
 
 <div align="center">
 
-<!-- TOP BANNER -->
+<!-- HERO BANNER -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,40:7F1D1D,75:DC2626,100:F59E0B&text=WELCOME%20TO%20AAYAAN%20LABS&fontSize=34&fontColor=FFFFFF&fontAlignY=40&desc=THINK%20BOLDLY.%20BUILD%20FEARLESSLY.&descSize=14&descAlignY=62&animation=fadeIn" width="100%" alt="Welcome to Aayaan Labs"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=750&height=40&lines=Turning+curiosity+into+innovation.;Ideas+are+easy.+Execution+is+everything.;Build+something+that+matters." alt="Animated tagline"/>
+<!-- ROTATING CAREER INTERESTS -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=700&color=F59E0B&center=true&vCenter=true&width=800&height=45&lines=Software+Development+Engineer;AI%2FML+Engineer;Data+Analyst;Robotics+%26+Embedded+Systems;Building+Intelligent+Solutions" alt="SDE, AI/ML, Data Analyst and Robotics typing animation"/>
 
 <br/><br/>
 
@@ -42,16 +44,6 @@ Hey, I'm **Mohd Aayaan** — an Electronics and Communication Engineering studen
 I enjoy experimenting with new technologies and building solutions that bring software and electronics together.
 
 <br clear="right"/>
-
-<div align="center">
-
-<img src="https://i.pinimg.com/originals/0d/03/ab/0d03ab518757191a341f3677f936d1d4.gif" width="260" alt="Iron Man cinematic animation"/>
-
-### "Sometimes you gotta run before you can walk."
-
-<sub>— Tony Stark, Iron Man</sub>
-
-</div>
 
 ---
 
@@ -165,20 +157,20 @@ I enjoy experimenting with new technologies and building solutions that bring so
 
 ---
 
+<!-- FINAL CINEMATIC SECTION -->
+
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=650&height=40&lines=Dream+it.+Build+it.+Make+it+real.;Stay+curious.+Keep+creating.;The+best+way+to+predict+the+future+is+to+build+it." alt="Closing tagline"/>
-
-<br/><br/>
-
-<a href="https://github.com/ayaan0730?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=F59E0B" alt="Explore my repositories"/>
-</a>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:7F1D1D,100:0D1117&height=100&section=footer" width="100%" alt="Cinematic footer"/>
 
-</div>
+<img src="https://i.pinimg.com/originals/0d/03/ab/0d03ab518757191a341f3677f936d1d4.gif" width="280" alt="Iron Man cinematic animation"/>
 
-<!-- ═══════════════════════ END AAYAAN LABS ═══════════════════════ -->
+### "Sometimes you gotta run before you can walk."
+
+<sub>— Tony Stark, Iron Man</sub>
+
+<br/><br/>
+
+**AAYAAN LABS** · *Dream it. Build it. Make it real.*
+
+</div>
