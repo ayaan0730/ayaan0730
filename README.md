@@ -1,17 +1,17 @@
 
-<!-- ═══════════════════════ AAYAAN LABS ═══════════════════════ -->
+<!-- ═════════════════════════ AAYAAN LABS ════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,40:7F1D1D,75:DC2626,100:F59E0B&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=ENGINEERING%20INTELLIGENCE%20%7C%20BUILDING%20THE%20FUTURE&descSize=13&descAlignY=65&animation=fadeIn" width="100%" alt="Aayaan Labs cinematic header"/>
+<!-- HERO BACKGROUND -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,40:7F1D1D,75:DC2626,100:F59E0B&text=WELCOME%20TO%20AAYAAN%20LABS&fontSize=34&fontColor=FFFFFF&fontAlignY=40&desc=GREAT%20IDEAS%20MEAN%20NOTHING%20WITHOUT%20EXECUTION.&descSize=13&descAlignY=62&animation=fadeIn" width="100%" alt="Welcome to Aayaan Labs"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=800&height=100&lines=WELCOME+TO+AAYAAN+LABS;J.A.R.V.I.S.+SYSTEM+ONLINE;ENGINEERING+INTELLIGENCE" alt="Welcome to Aayaan Labs typing effect"/>
+<!-- TYPING EFFECT -->
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=900&color=DC2626&center=true&vCenter=true&width=750&lines=Software+Development+%7C+AI%2FML+%7C+Data+Analytics;Electronics+%26+Communication+Engineering;Embedded+Systems+%7C+Drones+%7C+Robotics;Turning+Ideas+Into+Intelligent+Systems" alt="Technical interests typing effect"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=750&height=40&lines=Think+boldly.+Build+fearlessly.;Invent.+Experiment.+Make+an+impact.;Turning+curiosity+into+real-world+solutions.;The+future+belongs+to+those+who+build." alt="Aayaan Labs animated tagline"/>
 
 <br/><br/>
 
@@ -35,18 +35,20 @@
 
 Hi, I'm **Mohd Aayaan**, an Electronics and Communication Engineering student passionate about software engineering, artificial intelligence, and intelligent systems.
 
-- Software development, DSA, and problem-solving
-- AI/ML, computer vision, and data analytics
-- Full-stack development and cloud technologies
-- Embedded systems, robotics, and autonomous drones
-- Connecting software with real-world engineering applications
+- **Software Development:** DSA, programming, and problem-solving
+- **AI / Machine Learning:** Computer vision, NLP, and intelligent applications
+- **Data Analytics:** Data processing, visualization, and extracting useful insights
+- **Web & Cloud:** Full-stack applications, databases, and deployment
+- **Embedded Systems:** Microcontrollers, robotics, and drone technologies
 
-**Mission:** Build useful technology, solve challenging problems, and turn ambitious ideas into working systems.
+I enjoy exploring ideas at the intersection of software and electronics, learning by building, and turning challenging problems into practical solutions.
 
 <br clear="right"/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="170" alt="Coding animation"/>
+
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="165" alt="Coding animation"/>
+
 </div>
 
 ---
@@ -112,18 +114,10 @@ Hi, I'm **Mohd Aayaan**, an Electronics and Communication Engineering student pa
 </p>
 
 <div align="center">
-<img src="https://cdn.dribbble.com/userupload/22003117/file/original-c5cfeeebba812d25360fb52628175039.gif" width="180" alt="Drone animation"/>
-<br/>
-<sub>Autonomous systems · Embedded intelligence · Robotics</sub>
-</div>
 
----
+<img src="https://cdn.dribbble.com/userupload/22003117/file/original-c5cfeeebba812d25360fb52628175039.gif" width="170" alt="Drone animation"/>
 
-<div align="center">
-
-<img src="https://i.pinimg.com/originals/0d/03/ab/0d03ab518757191a341f3677f936d1d4.gif" width="240" alt="Iron Man cinematic animation"/>
-
-**J.A.R.V.I.S. // ENGINEERING SYSTEMS ONLINE**
+<sub>From embedded intelligence to autonomous flight.</sub>
 
 </div>
 
@@ -133,9 +127,15 @@ Hi, I'm **Mohd Aayaan**, an Electronics and Communication Engineering student pa
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayaan0730&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F59E0B&icon_color=DC2626&text_color=C9D1D9&rank_icon=github" height="165" alt="GitHub statistics"/>
+<img src="https://img.shields.io/github/followers/ayaan0730?style=for-the-badge&logo=github&label=FOLLOWERS&color=DC2626&labelColor=0D1117" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/stars/ayaan0730?style=for-the-badge&logo=github&label=STARS&color=F59E0B&labelColor=0D1117" alt="GitHub stars"/>
+<img src="https://img.shields.io/github/last-commit/ayaan0730/ayaan0730?style=for-the-badge&logo=github&label=PROFILE%20UPDATED&color=7F1D1D&labelColor=0D1117" alt="Last profile repository commit"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaan0730&layout=compact&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=C9D1D9&langs_count=6" height="165" alt="Most used programming languages"/>
+<br/><br/>
+
+<a href="https://github.com/ayaan0730?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=F59E0B" alt="Explore repositories"/>
+</a>
 
 </div>
 
@@ -143,26 +143,38 @@ Hi, I'm **Mohd Aayaan**, an Electronics and Communication Engineering student pa
 
 ## `04 // CURRENT MISSION`
 
-- Strengthening Data Structures & Algorithms and core CS fundamentals.
+- Strengthening Data Structures & Algorithms and core computer science fundamentals.
 - Building practical software and data-driven applications.
 - Exploring AI/ML, computer vision, and intelligent automation.
 - Expanding my knowledge of embedded systems, drones, and robotics.
-- Learning continuously and collaborating on meaningful engineering challenges.
+- Continuously learning, experimenting, and building better solutions.
 
 ---
 
 <div align="center">
 
-### `BUILD. TEST. LEARN. REPEAT.`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=650&height=40&lines=Dream+it.+Build+it.+Make+it+real.;Stay+curious.+Keep+creating.;The+best+way+to+predict+the+future+is+to+build+it." alt="Closing tagline"/>
 
-*Engineering ideas into reality — one commit at a time.*
+<br/><br/>
 
 <a href="https://github.com/ayaan0730">
-<img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
+<img src="https://img.shields.io/badge/EXPLORE-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:7F1D1D,100:0D1117&height=100&section=footer" width="100%" alt="Animated footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:7F1D1D,100:0D1117&height=100&section=footer" width="100%" alt="Red cinematic footer"/>
+
+</div>
+
+<!-- ═════════════════════ CINEMATIC FINALE ═════════════════════ -->
+
+<div align="center">
+
+<img src="https://i.pinimg.com/originals/0d/03/ab/0d03ab518757191a341f3677f936d1d4.gif" width="280" alt="Iron Man cinematic animation"/>
+
+### `A LITTLE INGENUITY. A LOT OF EXECUTION.`
+
+<sub>Every great invention begins with a question.</sub>
 
 </div>
