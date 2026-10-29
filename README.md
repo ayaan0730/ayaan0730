@@ -5,7 +5,7 @@
 
 <!-- HERO BANNER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,40:7F1D1D,75:DC2626,100:F59E0B&text=WELCOME%20TO%20AAYAAN%20LABS&fontSize=34&fontColor=FFFFFF&fontAlignY=40&desc=THINK%20BOLDLY.%20BUILD%20FEARLESSLY.&descSize=14&descAlignY=62&animation=fadeIn" width="100%" alt="Welcome to Aayaan Labs"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,40:7F1D1D,75:DC2626,100:F59E0B&text=WELCOME%20TO%20AAYAAN%20LABS&fontSize=34&fontColor=FFFFFF&fontAlignY=40&desc=THINK%20JUST.%20DO.%20IT.&descSize=14&descAlignY=62&animation=fadeIn" width="100%" alt="Welcome to Aayaan Labs"/>
 
 <br/>
 
