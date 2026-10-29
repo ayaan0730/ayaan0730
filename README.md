@@ -11,7 +11,7 @@
 
 <!-- ROTATING CAREER INTERESTS -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=700&color=F59E0B&center=true&vCenter=true&width=800&height=45&lines=Software+Development+Engineer;AI%2FML+Engineer;Data+Analyst;Robotics+%26+Embedded+Systems;Building+Intelligent+Solutions" alt="SDE, AI/ML, Data Analyst and Robotics typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=700&color=F59E0B&center=true&vCenter=true&width=800&height=45&lines=Software+Development+Engineer;AI%2FML+Engineer;Data+Analyst;Robotics+%26+Embedded+Systems" alt="SDE, AI/ML, Data Analyst and Robotics typing animation"/>
 
 <br/><br/>
 
@@ -117,21 +117,7 @@ I enjoy experimenting with new technologies and building solutions that bring so
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ayaan0730&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Aayaan's GitHub Stats"/>
-
-<img height="165" src="https://streak-stats.demolab.com/?user=ayaan0730&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaan0730&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
-
-</div>
-
----
 
 ## 🐍 Contribution Graph
 
