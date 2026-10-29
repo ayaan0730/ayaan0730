@@ -1,17 +1,15 @@
 
-<!-- ═════════════════════════ AAYAAN LABS ════════════════════════ -->
+<!-- ═══════════════════════ AAYAAN LABS ═══════════════════════ -->
 
 <div align="center">
 
-<!-- HERO BACKGROUND -->
+<!-- TOP BANNER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,40:7F1D1D,75:DC2626,100:F59E0B&text=WELCOME%20TO%20AAYAAN%20LABS&fontSize=34&fontColor=FFFFFF&fontAlignY=40&desc=GREAT%20IDEAS%20MEAN%20NOTHING%20WITHOUT%20EXECUTION.&descSize=13&descAlignY=62&animation=fadeIn" width="100%" alt="Welcome to Aayaan Labs"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,40:7F1D1D,75:DC2626,100:F59E0B&text=WELCOME%20TO%20AAYAAN%20LABS&fontSize=34&fontColor=FFFFFF&fontAlignY=40&desc=THINK%20BOLDLY.%20BUILD%20FEARLESSLY.&descSize=14&descAlignY=62&animation=fadeIn" width="100%" alt="Welcome to Aayaan Labs"/>
 
 <br/>
 
-<!-- TYPING EFFECT -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=750&height=40&lines=Think+boldly.+Build+fearlessly.;Invent.+Experiment.+Make+an+impact.;Turning+curiosity+into+real-world+solutions.;The+future+belongs+to+those+who+build." alt="Aayaan Labs animated tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=750&height=40&lines=Turning+curiosity+into+innovation.;Ideas+are+easy.+Execution+is+everything.;Build+something+that+matters." alt="Animated tagline"/>
 
 <br/><br/>
 
@@ -33,21 +31,25 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=ayaan0730&style=flat-square&color=dc2626&label=PROFILE+VISITS" alt="Profile views"/>
 
-Hi, I'm **Mohd Aayaan**, an Electronics and Communication Engineering student passionate about software engineering, artificial intelligence, and intelligent systems.
+Hey, I'm **Mohd Aayaan** — an Electronics and Communication Engineering student interested in software engineering, AI/ML, data analytics, and intelligent systems.
 
 - **Software Development:** DSA, programming, and problem-solving
-- **AI / Machine Learning:** Computer vision, NLP, and intelligent applications
-- **Data Analytics:** Data processing, visualization, and extracting useful insights
-- **Web & Cloud:** Full-stack applications, databases, and deployment
-- **Embedded Systems:** Microcontrollers, robotics, and drone technologies
+- **AI / ML:** Computer vision, NLP, and intelligent applications
+- **Data Analytics:** Data processing, visualization, and insights
+- **Web & Cloud:** Full-stack development, databases, and deployment
+- **Embedded Systems:** Microcontrollers, robotics, and drones
 
-I enjoy exploring ideas at the intersection of software and electronics, learning by building, and turning challenging problems into practical solutions.
+I enjoy experimenting with new technologies and building solutions that bring software and electronics together.
 
 <br clear="right"/>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="165" alt="Coding animation"/>
+<img src="https://i.pinimg.com/originals/0d/03/ab/0d03ab518757191a341f3677f936d1d4.gif" width="260" alt="Iron Man cinematic animation"/>
+
+### "Sometimes you gotta run before you can walk."
+
+<sub>— Tony Stark, Iron Man</sub>
 
 </div>
 
@@ -123,31 +125,43 @@ I enjoy exploring ideas at the intersection of software and electronics, learnin
 
 ---
 
-## `03 // GITHUB ACTIVITY`
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/ayaan0730?style=for-the-badge&logo=github&label=FOLLOWERS&color=DC2626&labelColor=0D1117" alt="GitHub followers"/>
-<img src="https://img.shields.io/github/stars/ayaan0730?style=for-the-badge&logo=github&label=STARS&color=F59E0B&labelColor=0D1117" alt="GitHub stars"/>
-<img src="https://img.shields.io/github/last-commit/ayaan0730/ayaan0730?style=for-the-badge&logo=github&label=PROFILE%20UPDATED&color=7F1D1D&labelColor=0D1117" alt="Last profile repository commit"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ayaan0730&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Aayaan's GitHub Stats"/>
 
-<br/><br/>
+<img height="165" src="https://streak-stats.demolab.com/?user=ayaan0730&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 
-<a href="https://github.com/ayaan0730?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=F59E0B" alt="Explore repositories"/>
-</a>
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaan0730&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 
 </div>
 
 ---
 
-## `04 // CURRENT MISSION`
+## 🐍 Contribution Graph
 
-- Strengthening Data Structures & Algorithms and core computer science fundamentals.
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayaan0730/ayaan0730/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayaan0730/ayaan0730/output/github-snake.svg"/>
+  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/ayaan0730/ayaan0730/output/github-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
+## `03 // CURRENT MISSION`
+
+- Strengthening Data Structures & Algorithms and core CS fundamentals.
 - Building practical software and data-driven applications.
 - Exploring AI/ML, computer vision, and intelligent automation.
 - Expanding my knowledge of embedded systems, drones, and robotics.
-- Continuously learning, experimenting, and building better solutions.
+- Learning continuously and turning ideas into real-world solutions.
 
 ---
 
@@ -157,24 +171,14 @@ I enjoy exploring ideas at the intersection of software and electronics, learnin
 
 <br/><br/>
 
-<a href="https://github.com/ayaan0730">
-<img src="https://img.shields.io/badge/EXPLORE-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
+<a href="https://github.com/ayaan0730?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=F59E0B" alt="Explore my repositories"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:7F1D1D,100:0D1117&height=100&section=footer" width="100%" alt="Red cinematic footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:7F1D1D,100:0D1117&height=100&section=footer" width="100%" alt="Cinematic footer"/>
 
 </div>
 
-<!-- ═════════════════════ CINEMATIC FINALE ═════════════════════ -->
-
-<div align="center">
-
-<img src="https://i.pinimg.com/originals/0d/03/ab/0d03ab518757191a341f3677f936d1d4.gif" width="280" alt="Iron Man cinematic animation"/>
-
-### `A LITTLE INGENUITY. A LOT OF EXECUTION.`
-
-<sub>Every great invention begins with a question.</sub>
-
-</div>
+<!-- ═══════════════════════ END AAYAAN LABS ═══════════════════════ -->
