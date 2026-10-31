@@ -5,7 +5,7 @@
 
 <!-- HERO BANNER -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2400&pause=900&color=F59E0B&center=true&vCenter=true&width=820&height=45&letterSpacing=1.5px&repeat=true&lines=%24+Software+Development+Engineer;%24+AI+%2F+ML+Engineer;%24+Data+Analyst;%24+Robotics+%26+Embedded+Systems;%24+building+machines+that+think" alt="Typing animation of roles"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,40:7F1D1D,75:DC2626,100:F59E0B&text=WELCOME%20TO%20AAYAAN%20LABS&fontSize=34&fontColor=FFFFFF&fontAlignY=40&desc=%20From.%20circuits.%20to.%20intelligence.&descSize=14&descAlignY=62&animation=fadeIn" width="100%" alt="Welcome to Aayaan Labs"/>
 
 <br/>
 
@@ -116,6 +116,8 @@ I enjoy experimenting with new technologies and building solutions that bring so
 </div>
 
 ---
+
+
 
 
 ## 🐍 Contribution Graph
